@@ -1,0 +1,91 @@
+/*style*/
+body {
+	font: 16px/28px arial sans-serif;
+	background-color: #eaeaea;
+	color: 333;
+	background-image: url(free.jpg);
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	padding: 10px;
+}
+
+.header {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-right: 7px;
+}
+
+.header a {
+	text-decoration: none;
+	color: salmon;
+	padding: 3px;
+}
+
+.header a:hover {
+	background-color: lightskyblue;
+	color: white;
+}
+
+.hero {
+	height: 250px;
+	background-image:url(gambar.jpg) ;
+	background-size: cover;
+	background-position: 0 -90px;
+	border-bottom: 5px solid lightskyblue;
+	border-top: 5px solid salmon;
+}
+.content {
+	padding: 20px;
+}
+
+.content h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.content .penulis {
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.content a {
+	color: salmon;
+	text-decoration: none;
+}
+
+.content p {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+.footer {
+	background-color: black;
+}
+
+.footer .copy {
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.header h1 {
+	font-style: italic;
+	color: white;
+	background-image: url(anime2.jpg);	padding: 20px;
+	background-position: 0 -10px;
+	background-size: cover;
+
+-10
